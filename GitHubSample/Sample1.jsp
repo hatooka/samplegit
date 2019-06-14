@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>変更</title>
 </head>
 <body>
 <form action="SanpleServlet" method="post">
