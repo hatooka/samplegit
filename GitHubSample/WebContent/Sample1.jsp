@@ -9,9 +9,8 @@
 <body>
 1回目の変更
 2回目の変更
-
 3回目の変更再びコミット
-
+4回目恐らく
 <form action="SanpleServlet" method="post">
 <input type="text">
 <input type="submit" value="次へ">
