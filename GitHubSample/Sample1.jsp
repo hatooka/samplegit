@@ -7,6 +7,7 @@
 <title>変更</title>
 </head>
 <body>
+1回目の変更
 <form action="SanpleServlet" method="post">
 <input type="text">
 <input type="submit" value="次へ">
