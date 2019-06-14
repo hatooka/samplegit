@@ -8,6 +8,7 @@
 </head>
 <body>
 <form action="SanpleServlet" method="post">
+<input type="text">
 <input type="submit" value="次へ">
 </form>
 
